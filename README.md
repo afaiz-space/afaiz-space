@@ -19,6 +19,6 @@
 </p>  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaiz-space&layout=compact" alt="faizan" /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=afaiz-space" alt="faizan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afaiz-space&" alt="faizan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=afaiz-space&show_icons=true&theme=radical" alt="faizan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afaiz-space&show_icons=true&theme=radical" alt="faizan" /></p>
 
