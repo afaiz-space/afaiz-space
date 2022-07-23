@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there 👋 I'm faizan<h1>
-<h3 align="center">I want to be a frontend developer.<h3>
+<h1 align="center"> Hi there 👋 I'm faizan</h1>
+<h3 align="center">I want to be a frontend developer.</h3>
   
 - 🔭 I’m currently working on [Frontend Mentor Projects](https://www.frontendmentor.io/profile/afaiz-space)
-- 🌱 I’m currently learning HTML CSS and JavaScript
+- 🌱 I’m currently learning HTML CSS and JavaScript.
 - 📫 How to reach me: **afaizan100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
