@@ -22,3 +22,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=afaiz-space&show_icons=true&theme=radical" alt="faizan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afaiz-space&show_icons=true&theme=radical" alt="faizan" /></p>
 
+
+
+ [![Hashnode Badge](https://img.shields.io/badge/-devisha-03a9f4?style=flat-square&logo=Hashnode&logoColor=white&link=https://isha.hashnode.dev)](isha.hashnode.dev)  
+ [![Linkedin Badge](https://img.shields.io/badge/-ishagupta20-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) 
+ [![YouTube Badge](https://img.shields.io/badge/Isha_Gupta-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCYJx3ZAnyRAUIBU0nxFJqyA)](https://www.youtube.com/channel/UCYJx3ZAnyRAUIBU0nxFJqyA) 
+ [![Twitter Badge](https://img.shields.io/badge/-Isha_1321-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321) 
+ [![Linktree Badge](https://img.shields.io/badge/-ishagupta-pink?style=flat-square&logo=Linktree&logoColor=black&link=https://ishagupta.bio.link)](https://ishagupta.bio.link) 
+ [![Portfolio Badge](https://img.shields.io/badge/-afaiz-space-c14438?style=flat-square&logo=Browser&logoColor=white&link=https://isha2103.github.io/)](https://afaiz-space.github.io/Faiz_Portfolio/) 
+ [![GitHub followers](https://img.shields.io/github/followers/afaiz-space.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/afaiz-space?tab=followers) 
+ ![Profile views](https://gpvc.arturio.dev/afaiz-space)  
