@@ -23,8 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afaiz-space&show_icons=true&theme=radical" alt="faizan" /></p>
 
 
-
-
- [![Portfolio Badge](https://img.shields.io/badge/-afaiz-space-c14438?style=flat-square&logo=Browser&logoColor=white&link=[https://isha2103.github.io/](https://afaiz-space.github.io/Faiz_Portfolio/))](https://afaiz-space.github.io/Faiz_Portfolio/) 
- [![GitHub followers](https://img.shields.io/github/followers/afaiz-space.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/afaiz-space?tab=followers) 
+ 
+ [![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=faizan&logo=twitter&logoColor=blue&style=plastic&url=https%3A%2F%2Fmobile.twitter.com%2FAfaizan100)](https://mobile.twitter.com/Afaizan100)[![GitHub followers](https://img.shields.io/github/followers/afaiz-space.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/afaiz-space?tab=followers) 
  ![Profile views](https://gpvc.arturio.dev/afaiz-space)  
